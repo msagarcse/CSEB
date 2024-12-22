@@ -1,2 +1,2 @@
 console.log("WELCOME CSEB");
-console.log("FSD")
+console.log("FSD");
